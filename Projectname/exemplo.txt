@@ -1,0 +1,1 @@
+"Serve para melhorar as ferramentas que trabalhamos. Neste caso, criar°amos uma vers∆o da nossa biblioteca.\n __init__: \n config: Mostra como a aplicaá∆o vai se comportar no ambiente de produduá∆o; data: usado para fazer manipulaá‰es dos dados; \n utils: faz a integraá∆o entre outras bibliotecas; \n setup: o que faz a biblioteca funcionar" 
