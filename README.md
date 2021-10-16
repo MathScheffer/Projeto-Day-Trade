@@ -1,2 +1,1 @@
-# Projeto-Day-Trade
-Trabalho com árvore de decisão em cima do mercado financeiro
+"Estrutura de exemplo para um projeto de Datascience" 
